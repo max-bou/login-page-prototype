@@ -85,7 +85,7 @@
             </div>
             <div class="panel right-panel">
                 <div class="content">
-                    <img src="img/Mapstime_Logo_blanc.png" class="image"/>
+                    <img src="img/logo" class="image"/>
                     <h3>Déja inscrit ?</h3>
                     <p>Connectez-vous à votre espace utilisateur via le bouton ci-dessous !</p>
                     <button class="btn transparent" id="sign-in-btn">Connexion</button>
